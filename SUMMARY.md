@@ -1,6 +1,7 @@
 # Table of contents
 
 * [使用說明](README.md)
+* [前言](qian-yan.md)
 
 ## 認識迴響
 
