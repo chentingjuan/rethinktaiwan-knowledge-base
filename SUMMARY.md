@@ -9,11 +9,9 @@
 * [歷屆行動團隊](ren-shi-hui-xiang/li-jie-hang-dong-tuan-dui.md)
 * [迴響好夥伴](ren-shi-hui-xiang/hui-xiang-hao-huo-ban.md)
 
-## 知識體系-構成迴響執行風格的獨特方法論與文化 <a id="zhi-shi-ti-xi"></a>
-
-* [Untitled](zhi-shi-ti-xi/untitled.md)
-
 ---
 
+* [知識體系](untitled/README.md)
+  * [Untitled](untitled/untitled-1.md)
 * [FAQ](faq.md)
 
