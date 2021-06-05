@@ -1,2 +1,2 @@
-# Initial page
+# 知識庫簡介
 
