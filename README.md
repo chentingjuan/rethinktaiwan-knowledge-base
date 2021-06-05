@@ -7,10 +7,10 @@ description: 前言前言
 哈囉哈囉！  
 既然都來到這裡了，讓我為您稍微介紹一下 gitbook 有哪些功能吧！
 
-### 狀態
+### 可以使用狀態小語
 
 {% hint style="danger" %}
-可以加一些狀態小語
+注意注意！
 {% endhint %}
 
 {% hint style="info" %}
