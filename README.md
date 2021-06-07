@@ -5,7 +5,7 @@ description: 前言前言
 # 前言
 
 哈囉哈囉！  
-既然都來到這裡了，讓我為您稍微介紹一下 gitbook 有哪些功能吧！
+既然都來到這裡了，讓我為您導覽介紹一下 gitbook 有哪些功能吧！
 
 ### 可以使用狀態小語
 
@@ -51,6 +51,14 @@ description: 前言前言
 {% tabs %}
 {% tab title="First Tab" %}
 我是第一個 tab 的內容
+
+#### Tab 裡面也是可以有 Header 的
+
+
+
+還可以設置下載文件的按鈕（不一定要在 tab 內）：
+
+{% file src=".gitbook/assets/kong-jian-biao-yu-202101290830.pdf" caption="空間標語 PDF" %}
 {% endtab %}
 
 {% tab title="Second Tab" %}
@@ -61,4 +69,9 @@ description: 前言前言
 ### 照片也是沒有問題的
 
 ![](.gitbook/assets/bian-ge-li-lun-.png)
+
+### 還有嗎？
+
+點點按按看四周的物件吧！還有很多友善的好功能可以瞧瞧～  
+
 
