@@ -6,7 +6,10 @@
 
 * [籌辦團隊核心與願景](ren-shi-hui-xiang/chou-ban-tuan-dui-he-xin-yu-yuan-jing.md)
 * [迴響品牌紀元](ren-shi-hui-xiang/hui-xiang-pin-pai-ji-yuan.md)
-* [歷屆行動團隊](ren-shi-hui-xiang/li-jie-hang-dong-tuan-dui.md)
+* [歷屆行動團隊](ren-shi-hui-xiang/li-jie-hang-dong-tuan-dui/README.md)
+  * [2019 年](ren-shi-hui-xiang/li-jie-hang-dong-tuan-dui/2019-nian.md)
+  * [2018 年](ren-shi-hui-xiang/li-jie-hang-dong-tuan-dui/2018-nian.md)
+  * [2017 年](ren-shi-hui-xiang/li-jie-hang-dong-tuan-dui/2017-nian.md)
 * [迴響好夥伴](ren-shi-hui-xiang/hui-xiang-hao-huo-ban.md)
 
 ## 知識體系
