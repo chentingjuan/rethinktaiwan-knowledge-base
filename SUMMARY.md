@@ -16,6 +16,7 @@
 
 * [變革理論](zhi-shi-ti-xi/untitled-1.md)
 * [行動架構設計](zhi-shi-ti-xi/hang-dong-jia-gou-she-ji.md)
+* [迴響三大精神](zhi-shi-ti-xi/hui-xiang-san-da-jing-shen.md)
 * [迴響金三角](zhi-shi-ti-xi/hui-xiang-jin-san-jiao/README.md)
   * [行動工具](zhi-shi-ti-xi/hui-xiang-jin-san-jiao/hang-dong-gong-ju.md)
   * [教練](zhi-shi-ti-xi/hui-xiang-jin-san-jiao/jiao-lian.md)
