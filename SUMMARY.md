@@ -9,7 +9,6 @@
   * [2018 年，是所有東西都想要更好的一年](ren-shi-hui-xiang/hui-xiang-pin-pai-ji-yuan/2018-nian-shi-suo-you-dong-xi-du-xiang-yao-geng-hao-de-yi-nian.md)
   * [2019 年，是取捨的一屆](ren-shi-hui-xiang/hui-xiang-pin-pai-ji-yuan/2019-nian-shi-qu-she-de-yi-jie.md)
   * [2020-2021 年，是嘗試與世界連結的一屆](ren-shi-hui-xiang/hui-xiang-pin-pai-ji-yuan/20202021-nian-shi-chang-shi-yu-shi-jie-lian-jie-de-yi-jie.md)
-* [2018](ren-shi-hui-xiang/2018.md)
 * [歷屆行動團隊](ren-shi-hui-xiang/li-jie-hang-dong-tuan-dui/README.md)
   * [2019 年迴響行動團隊](ren-shi-hui-xiang/li-jie-hang-dong-tuan-dui/2019-nian.md)
   * [2018 年迴響行動團隊](ren-shi-hui-xiang/li-jie-hang-dong-tuan-dui/2018-nian.md)
