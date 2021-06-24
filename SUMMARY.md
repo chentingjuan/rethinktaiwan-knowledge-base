@@ -23,10 +23,10 @@
   * [行動工具](zhi-shi-ti-xi/hui-xiang-jin-san-jiao/hang-dong-gong-ju.md)
   * [教練](zhi-shi-ti-xi/hui-xiang-jin-san-jiao/jiao-lian.md)
   * [行動夥伴](zhi-shi-ti-xi/hui-xiang-jin-san-jiao/hang-dong-huo-ban.md)
+* [行動架構設計](zhi-shi-ti-xi/hang-dong-jia-gou-she-ji.md)
 
 ---
 
-* [行動架構設計](hang-dong-jia-gou-she-ji.md)
 * [FAQ](faq.md)
 * [迴響計畫官網](http://rethinktaiwan.com)
 * [迴響計畫粉專](https://www.facebook.com/RethinkTaiwan2027/)
