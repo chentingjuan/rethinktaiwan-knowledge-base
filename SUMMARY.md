@@ -13,7 +13,7 @@
   * [2019 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2019-nian.md)
   * [2018 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2018-nian.md)
   * [2017 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2017-nian.md)
-* [歷屆行動團隊\_v2](intro/li-jie-hang-dong-tuan-dui-v2.md)
+* [歷屆行動團隊\_v2](intro/teams.md)
 * [迴響好夥伴](intro/hui-xiang-hao-huo-ban.md)
 
 ## 知識體系
