@@ -6,9 +6,9 @@
 
 * [迴響核心與願景](intro/chou-ban-tuan-dui-he-xin-yu-yuan-jing.md)
 * [迴響品牌紀元](intro/brand-timeline/README.md)
-  * [2018 年，是所有東西都想要更好的一年](intro/brand-timeline/2018-nian-shi-suo-you-dong-xi-du-xiang-yao-geng-hao-de-yi-nian.md)
-  * [2019 年，是取捨的一屆](intro/brand-timeline/2019-nian-shi-qu-she-de-yi-jie.md)
-  * [2020-2021 年，是嘗試與世界連結的一屆](intro/brand-timeline/20202021-nian-shi-chang-shi-yu-shi-jie-lian-jie-de-yi-jie.md)
+  * [2018 年，是所有東西都想要更好的一年](intro/brand-timeline/2018.md)
+  * [2019 年，是取捨的一屆](intro/brand-timeline/2019.md)
+  * [2020-2021 年，是嘗試與世界連結的一屆](intro/brand-timeline/2020-and-2021.md)
 * [歷屆行動團隊](intro/teams.md)
 * [歷屆行動團隊\_old](intro/li-jie-hang-dong-tuan-dui/README.md)
   * [2019 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2019-nian.md)
