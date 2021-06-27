@@ -38,11 +38,11 @@
 * [社群精選回顧](wo-men-de-zu-ji/she-qun-hui-gu.md)
 * [歷年紀錄片](wo-men-de-zu-ji/li-nian-ji-lu-pian.md)
 
-## 💎  藏寶庫
+## 💎  藏寶庫 <a id="treasure-vault"></a>
 
-* [迴響出版](cang-bao-ku/hui-xiang-chu-ban.md)
-* [迴響行星群](cang-bao-ku/hui-xiang-xing-qiu.md)
-* [行動精神糧食](cang-bao-ku/hang-dong-ming-yan-lu.md)
+* [迴響出版](treasure-vault/publication.md)
+* [迴響行星群](treasure-vault/planets.md)
+* [行動精神糧食](treasure-vault/spiritual-slogan.md)
 
 ---
 
