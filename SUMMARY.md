@@ -35,7 +35,7 @@
 ## 👣  我們的足跡
 
 * [影響力報告](wo-men-de-zu-ji/ying-xiang-li-bao-gao.md)
-* [社群回顧](wo-men-de-zu-ji/she-qun-hui-gu.md)
+* [社群精選回顧](wo-men-de-zu-ji/she-qun-hui-gu.md)
 * [歷年紀錄片](wo-men-de-zu-ji/li-nian-ji-lu-pian.md)
 
 ## 💎  藏寶庫
