@@ -41,7 +41,7 @@
 ## 💎  藏寶庫
 
 * [迴響出版](cang-bao-ku/hui-xiang-chu-ban.md)
-* [迴響星球](cang-bao-ku/hui-xiang-xing-qiu.md)
+* [迴響行星群](cang-bao-ku/hui-xiang-xing-qiu.md)
 * [行動精神糧食](cang-bao-ku/hang-dong-ming-yan-lu.md)
 
 ---
