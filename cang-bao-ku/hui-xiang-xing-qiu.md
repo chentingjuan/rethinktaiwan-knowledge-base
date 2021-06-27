@@ -28,7 +28,7 @@ description: 這裡展示著十五顆迴響星球，它們各自代表著迴響�
 
 
 
-{% file src="../.gitbook/assets/qing-nian-hui-xiang-hang-dong-jie-1289-hui-xiang-xing-qiu-jie-shao-.pdf" caption="迴響星球，一次擁有" %}
+{% file src="../.gitbook/assets/hui-xiang-xing-qiu-jie-shao-.pdf" caption="迴響星球，一次擁有" %}
 
 
 
