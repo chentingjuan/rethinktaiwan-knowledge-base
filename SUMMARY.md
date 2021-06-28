@@ -42,7 +42,7 @@
 
 * [迴響出版](treasure-vault/publication.md)
 * [迴響行星群](treasure-vault/planets.md)
-* [行動精神糧食](treasure-vault/spiritual-slogan.md)
+* [行動精神小語](treasure-vault/spiritual-slogan.md)
 
 ---
 
