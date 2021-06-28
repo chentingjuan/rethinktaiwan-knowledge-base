@@ -4,7 +4,7 @@
 
 ## 👋  認識迴響 <a id="intro"></a>
 
-* [核心與願景](intro/chou-ban-tuan-dui-he-xin-yu-yuan-jing.md)
+* [迴響核心與願景](intro/chou-ban-tuan-dui-he-xin-yu-yuan-jing.md)
 * [迴響簡介](intro/hui-xiang-jian-jie.md)
 * [迴響品牌紀元](intro/brand-timeline/README.md)
   * [2018 年，是所有東西都想要更好的一屆](intro/brand-timeline/2018.md)
