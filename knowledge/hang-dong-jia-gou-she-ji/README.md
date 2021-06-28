@@ -12,3 +12,11 @@
 
 ![&#x884C;&#x52D5;&#x6B77;&#x7A0B;&#x7E3D;&#x89BD;&#xFF0C;&#x4E0B;&#x9801;&#x958B;&#x59CB;&#x6709;&#x5C40;&#x90E8;&#x9AD8;&#x6E05;&#x7248;](../../.gitbook/assets/14575cmpvc-he-cheng-ban-liang-fen-hang-dong-jie-duan-da-tu-.png)
 
+
+
+接下來，你也可以看看每個階段的說明與案例：
+
+* [【來吧！問題】所有行動始於一句提案](lai-ba-wen-ti-suo-you-hang-dong-shi-wu-yi-ju-ti-an.md)
+* [【去吧！行動】完美行動根本不存在，迭代、優化使之完整](qu-ba-hang-dong-wan-mei-hang-dong-gen-ben-bu-cun-zai-die-dai-you-hua-shi-zhi-wan-zheng.md)
+* [【上吧！大夥】我有的是經驗！下一步，就是重複！就是累積！就是在踹！](shang-ba-da-huo-wo-you-de-shi-jing-yan-xia-yi-bu-jiu-shi-zhong-fu-jiu-shi-lei-ji-jiu-shi-zai-chuai.md)
+
