@@ -21,16 +21,17 @@
 ## 📚 知識體系 <a id="knowledge"></a>
 
 * [變革理論](knowledge/untitled-1.md)
-* [行動架構設計](knowledge/hang-dong-jia-gou-she-ji/README.md)
-  * [【來吧！問題】所有行動始於一句提案。](knowledge/hang-dong-jia-gou-she-ji/lai-ba-wen-ti-suo-you-hang-dong-shi-wu-yi-ju-ti-an.md)
-  * [【去吧！行動】完美行動根本不存在，迭代、優化使之完整。](knowledge/hang-dong-jia-gou-she-ji/qu-ba-hang-dong-wan-mei-hang-dong-gen-ben-bu-cun-zai-die-dai-you-hua-shi-zhi-wan-zheng.md)
-  * [【上吧！大夥】我有的是經驗！下一步，就是重複！就是累積！就是再踹！](knowledge/hang-dong-jia-gou-she-ji/shang-ba-da-huo-wo-you-de-shi-jing-yan-xia-yi-bu-jiu-shi-zhong-fu-jiu-shi-lei-ji-jiu-shi-zai-chuai.md)
-  * [行動架構補充：](knowledge/hang-dong-jia-gou-she-ji/hang-dong-jia-gou-bu-chong.md)
-* [迴響金三角](knowledge/hui-xiang-jin-san-jiao/README.md)
-  * [行動工具](knowledge/hui-xiang-jin-san-jiao/hang-dong-gong-ju.md)
-  * [設計思考教練](knowledge/hui-xiang-jin-san-jiao/design-thinking-coach.md)
-  * [行動夥伴](knowledge/hui-xiang-jin-san-jiao/partners.md)
+* [行動是有方法的](knowledge/hang-dong-shi-you-fang-fa-de/README.md)
+  * [行動迴圈](knowledge/hang-dong-shi-you-fang-fa-de/hang-dong-hui-quan.md)
+  * [行動階段](knowledge/hang-dong-shi-you-fang-fa-de/hang-dong-jia-gou-she-ji/README.md)
+    * [【來吧！問題】所有行動始於一句提案。](knowledge/hang-dong-shi-you-fang-fa-de/hang-dong-jia-gou-she-ji/lai-ba-wen-ti-suo-you-hang-dong-shi-wu-yi-ju-ti-an.md)
+    * [【去吧！行動】完美行動根本不存在，迭代、優化使之完整。](knowledge/hang-dong-shi-you-fang-fa-de/hang-dong-jia-gou-she-ji/qu-ba-hang-dong-wan-mei-hang-dong-gen-ben-bu-cun-zai-die-dai-you-hua-shi-zhi-wan-zheng.md)
+    * [【上吧！大夥】我有的是經驗！下一步，就是重複！就是累積！就是再踹！](knowledge/hang-dong-shi-you-fang-fa-de/hang-dong-jia-gou-she-ji/shang-ba-da-huo-wo-you-de-shi-jing-yan-xia-yi-bu-jiu-shi-zhong-fu-jiu-shi-lei-ji-jiu-shi-zai-chuai.md)
+    * [行動架構補充：](knowledge/hang-dong-shi-you-fang-fa-de/hang-dong-jia-gou-she-ji/hang-dong-jia-gou-bu-chong.md)
+  * [各階段行動工具](knowledge/hang-dong-shi-you-fang-fa-de/hang-dong-gong-ju.md)
 * [迴響三大精神](knowledge/hui-xiang-san-da-jing-shen.md)
+* [設計思考教練](knowledge/design-thinking-coach.md)
+* [行動夥伴](knowledge/partners.md)
 
 ## 👣  我們的足跡
 
