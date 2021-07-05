@@ -6,7 +6,7 @@
 
 * [迴響核心與願景](intro/chou-ban-tuan-dui-he-xin-yu-yuan-jing.md)
 * [迴響簡介](intro/hui-xiang-jian-jie.md)
-* [迴響品牌紀元](intro/brand-timeline/README.md)
+* [迴響品牌紀元，從 2017 年說起](intro/brand-timeline/README.md)
   * [2018 年，是所有東西都想要更好的一屆](intro/brand-timeline/2018.md)
   * [2019 年，是取捨的一屆](intro/brand-timeline/2019.md)
   * [2020-2021 年，是嘗試與世界連結的一屆](intro/brand-timeline/2020-and-2021.md)
