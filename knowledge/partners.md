@@ -11,5 +11,7 @@
 
 延伸閱讀：[2020 年行動夥伴群](https://airtable.com/shrKsHd9vu3GTfGc9)
 
-####  
+Note：
+
+* 可以花更多時間討論行動夥伴的概念跟業師的差別
 
