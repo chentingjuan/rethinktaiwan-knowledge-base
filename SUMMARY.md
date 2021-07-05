@@ -26,11 +26,11 @@
   * [【去吧！行動】完美行動根本不存在，迭代、優化使之完整。](knowledge/hang-dong-jia-gou-she-ji/qu-ba-hang-dong-wan-mei-hang-dong-gen-ben-bu-cun-zai-die-dai-you-hua-shi-zhi-wan-zheng.md)
   * [【上吧！大夥】我有的是經驗！下一步，就是重複！就是累積！就是再踹！](knowledge/hang-dong-jia-gou-she-ji/shang-ba-da-huo-wo-you-de-shi-jing-yan-xia-yi-bu-jiu-shi-zhong-fu-jiu-shi-lei-ji-jiu-shi-zai-chuai.md)
   * [行動架構補充：](knowledge/hang-dong-jia-gou-she-ji/hang-dong-jia-gou-bu-chong.md)
-* [迴響三大精神](knowledge/hui-xiang-san-da-jing-shen.md)
 * [迴響金三角](knowledge/hui-xiang-jin-san-jiao/README.md)
   * [行動工具](knowledge/hui-xiang-jin-san-jiao/hang-dong-gong-ju.md)
   * [設計思考教練](knowledge/hui-xiang-jin-san-jiao/design-thinking-coach.md)
   * [行動夥伴](knowledge/hui-xiang-jin-san-jiao/partners.md)
+* [迴響三大精神](knowledge/hui-xiang-san-da-jing-shen.md)
 
 ## 👣  我們的足跡
 

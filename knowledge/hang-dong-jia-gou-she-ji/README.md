@@ -16,7 +16,9 @@
 
 接下來，你也可以看看每個階段的說明與案例：
 
-* [【來吧！問題】所有行動始於一句提案](lai-ba-wen-ti-suo-you-hang-dong-shi-wu-yi-ju-ti-an.md)
-* [【去吧！行動】完美行動根本不存在，迭代、優化使之完整](qu-ba-hang-dong-wan-mei-hang-dong-gen-ben-bu-cun-zai-die-dai-you-hua-shi-zhi-wan-zheng.md)
-* [【上吧！大夥】我有的是經驗！下一步，就是重複！就是累積！就是在踹！](shang-ba-da-huo-wo-you-de-shi-jing-yan-xia-yi-bu-jiu-shi-zhong-fu-jiu-shi-lei-ji-jiu-shi-zai-chuai.md)
+{% page-ref page="lai-ba-wen-ti-suo-you-hang-dong-shi-wu-yi-ju-ti-an.md" %}
+
+{% page-ref page="qu-ba-hang-dong-wan-mei-hang-dong-gen-ben-bu-cun-zai-die-dai-you-hua-shi-zhi-wan-zheng.md" %}
+
+{% page-ref page="shang-ba-da-huo-wo-you-de-shi-jing-yan-xia-yi-bu-jiu-shi-zhong-fu-jiu-shi-lei-ji-jiu-shi-zai-chuai.md" %}
 
