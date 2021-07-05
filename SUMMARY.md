@@ -11,11 +11,11 @@
   * [2019 年，是取捨的一屆](intro/brand-timeline/2019.md)
   * [2020-2021 年，是嘗試與世界連結的一屆](intro/brand-timeline/2020-and-2021.md)
 * [精選時刻](intro/jing-xuan-shi-ke.md)
-* [歷屆行動團隊\_archive](intro/teams.md)
 * [歷屆行動團隊](intro/li-jie-hang-dong-tuan-dui/README.md)
   * [2019 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2019-nian.md)
   * [2018 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2018-nian.md)
   * [2017 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2017-nian.md)
+* [歷屆行動團隊\_archive](intro/teams.md)
 * [迴響好夥伴](intro/hui-xiang-hao-huo-ban.md)
 
 ## 📚 知識體系 <a id="knowledge"></a>
