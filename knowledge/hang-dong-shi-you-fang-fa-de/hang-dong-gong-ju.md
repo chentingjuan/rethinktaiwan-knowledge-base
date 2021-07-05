@@ -37,5 +37,7 @@
 
 ### **眾力小宇宙**
 
-在[「上吧！大夥」](hang-dong-jia-gou-she-ji/shang-ba-da-huo-wo-you-de-shi-jing-yan-xia-yi-bu-jiu-shi-zhong-fu-jiu-shi-lei-ji-jiu-shi-zai-chuai.md)階段，暫時還沒有一套明確的「方法與工具」，2020-2021 年，迴響計畫召集了 6 組議題團隊，一起實驗、研究了這個階段的不同主題，有興趣可以參考「眾力小宇宙」
+在[「上吧！大夥」](hang-dong-jia-gou-she-ji/shang-ba-da-huo-wo-you-de-shi-jing-yan-xia-yi-bu-jiu-shi-zhong-fu-jiu-shi-lei-ji-jiu-shi-zai-chuai.md)階段，暫時還沒有一套明確的「方法與工具」
+
+2020-2021 年，迴響計畫召集了 6 組議題團隊，一起實驗、研究了這個階段的不同主題，有興趣可以參考「眾力小宇宙」
 
