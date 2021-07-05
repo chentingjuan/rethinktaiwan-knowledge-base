@@ -20,7 +20,6 @@
 
 ## 📚 知識體系 <a id="knowledge"></a>
 
-* [變革理論](knowledge/untitled-1.md)
 * [行動是有方法的](knowledge/hang-dong-shi-you-fang-fa-de/README.md)
   * [行動迴圈](knowledge/hang-dong-shi-you-fang-fa-de/hang-dong-hui-quan.md)
   * [行動階段](knowledge/hang-dong-shi-you-fang-fa-de/hang-dong-jia-gou-she-ji/README.md)
@@ -32,6 +31,7 @@
 * [迴響三大精神](knowledge/hui-xiang-san-da-jing-shen.md)
 * [設計思考教練](knowledge/design-thinking-coach.md)
 * [行動夥伴](knowledge/partners.md)
+* [變革理論](knowledge/untitled-1.md)
 
 ## 👣  我們的足跡
 
