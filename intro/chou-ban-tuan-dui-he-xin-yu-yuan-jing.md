@@ -10,7 +10,7 @@ description: >-
 
 ## **核心**
 
-迴響計畫想要帶給社會、青年的理念，可以從【[迴響三大精神](https://app.gitbook.com/@rethinktaiwan2027-1/s/rethink-taiwan/~/drafts/-MdFUhdz6HkHZYPpIsrv/knowledge/hui-xiang-san-da-jing-shen)】了解全貌；然而，品牌本身的核心，比我們所思所想的還要龐大，能夠與讀者分享的，應該就是歷屆團隊持續守護的共同信念：
+迴響計畫想要帶給社會、青年的理念，可以從【[迴響三大精神](../knowledge/three-spirits-of-action.md)】了解全貌；然而，品牌本身的核心，比我們所思所想的還要龐大，能夠與讀者分享的，應該就是歷屆團隊持續守護的共同信念：
 
 **「只要是生活在台灣的人，都應該被鼓勵提出自己覺得『怪怪的』問題，而迴響會設計流程、方法，彰顯每一個提問的價值，陪伴大家從做得到的開始。」**
 

@@ -15,7 +15,6 @@
   * [2019 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2019-nian.md)
   * [2018 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2018-nian.md)
   * [2017 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2017-nian.md)
-* [歷屆行動團隊\_archive](intro/teams.md)
 * [迴響好夥伴](intro/hui-xiang-hao-huo-ban.md)
 
 ## 📚 知識體系 <a id="knowledge"></a>
@@ -28,7 +27,7 @@
     * [【上吧！大夥】我有的是經驗！下一步，就是重複！就是累積！就是再踹！](knowledge/hang-dong-shi-you-fang-fa-de/hang-dong-jia-gou-she-ji/shang-ba-da-huo-wo-you-de-shi-jing-yan-xia-yi-bu-jiu-shi-zhong-fu-jiu-shi-lei-ji-jiu-shi-zai-chuai.md)
     * [行動架構補充：](knowledge/hang-dong-shi-you-fang-fa-de/hang-dong-jia-gou-she-ji/hang-dong-jia-gou-bu-chong.md)
   * [各階段行動工具](knowledge/hang-dong-shi-you-fang-fa-de/hang-dong-gong-ju.md)
-* [迴響三大精神](knowledge/hui-xiang-san-da-jing-shen.md)
+* [行動的三大精神](knowledge/three-spirits-of-action.md)
 * [設計思考教練](knowledge/design-thinking-coach.md)
 * [行動夥伴](knowledge/partners.md)
 * [變革理論](knowledge/untitled-1.md)
