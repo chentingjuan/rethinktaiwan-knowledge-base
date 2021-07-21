@@ -49,7 +49,6 @@
 
 ---
 
-* [FAQ](faq.md)
 * [迴響計畫官網](http://rethinktaiwan.com)
 * [迴響計畫粉專](https://www.facebook.com/RethinkTaiwan2027/)
 
