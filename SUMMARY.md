@@ -53,4 +53,5 @@
 * [迴響計畫官網](http://rethinktaiwan.com)
 * [迴響計畫粉專](https://www.facebook.com/RethinkTaiwan2027/)
 * [任務包實戰基地](http://missions.rethinktaiwan.com)
+* [任務包概覽手冊](https://lihi1.com/ZHCcE)
 
