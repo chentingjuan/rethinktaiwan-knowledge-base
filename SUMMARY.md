@@ -16,6 +16,7 @@
   * [2018 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2018-nian.md)
   * [2017 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2017-nian.md)
 * [迴響的工作模式](intro/zhi-hang-tuan-dui-de-mu-biao-yu-gong-zuo-wen-hua/README.md)
+  * [發展出的幾種會議模式：](intro/zhi-hang-tuan-dui-de-mu-biao-yu-gong-zuo-wen-hua/fa-zhan-chu-de-ji-zhong-hui-yi-mo-shi.md)
   * [成員組成](intro/zhi-hang-tuan-dui-de-mu-biao-yu-gong-zuo-wen-hua/cheng-yuan-zu-cheng.md)
   * [工作文化](intro/zhi-hang-tuan-dui-de-mu-biao-yu-gong-zuo-wen-hua/gong-zuo-wen-hua.md)
 
