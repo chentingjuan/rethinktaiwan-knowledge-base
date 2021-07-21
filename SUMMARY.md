@@ -15,7 +15,7 @@
   * [2019 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2019-nian.md)
   * [2018 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2018-nian.md)
   * [2017 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2017-nian.md)
-* [迴響執行團隊](intro/zhi-hang-tuan-dui-de-mu-biao-yu-gong-zuo-wen-hua/README.md)
+* [迴響的工作模式](intro/zhi-hang-tuan-dui-de-mu-biao-yu-gong-zuo-wen-hua/README.md)
   * [成員組成](intro/zhi-hang-tuan-dui-de-mu-biao-yu-gong-zuo-wen-hua/cheng-yuan-zu-cheng.md)
   * [工作文化](intro/zhi-hang-tuan-dui-de-mu-biao-yu-gong-zuo-wen-hua/gong-zuo-wen-hua.md)
 * [迴響好夥伴](intro/hui-xiang-hao-huo-ban.md)
