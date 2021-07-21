@@ -1,6 +1,6 @@
 # Table of contents
 
-* [前言](README.md)
+* [前言：關於迴響知識庫](README.md)
 
 ## 👋  認識迴響 <a id="intro"></a>
 
