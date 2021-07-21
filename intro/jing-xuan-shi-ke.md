@@ -6,6 +6,8 @@ description: 一些讓你可以更認識計畫的圖文
 
 ## **參與說明會就是我的第一步！**
 
+![](https://lh6.googleusercontent.com/3MM1xaa68wmfjHt0HxDCjauzRNHeF_V4vyy-rzaM9BqI0NLXIT_0HqBAFWgzyWPEegNIFJdhjJ1tgndZvWECiTybOm1TyXJYCrJq3sZ8cCs32lq743_p6g8pGouOw3Z83wES-Mo3bA0)
+
 你可能不知道，**四年來有一定程度的行動者，就是在說明會的現場被點燃，甚至就是他關鍵的轉捩點**，開始認識不同行動者的社會議題，因為過去「行動」不在他們的選項裡。
 
 迴響珍惜每一次和大眾相遇的機會，**從生活經驗談「行動」百百種的模樣、引導反思生活上被限制行動的情境、持續討論大眾心中隱約覺得怪怪的地方、讓與會者也能寫下簡短的宣言**，和執行團隊、教練、講者、同行聽眾，初步談談模糊的感受和過往的經驗。
@@ -34,7 +36,7 @@ description: 一些讓你可以更認識計畫的圖文
 
 ## **大會師：行動者的開學典禮，為同樣原因而聚集。**
 
-![](https://lh3.googleusercontent.com/nark-7oti1wcrVY_Oz2bySN8vSQpd5PVUbuLnfezGF39B16ZQZenKj3gaKdWSr8hUxlSCs25FCPSA9JmxtN3J2xuQs9SYAcB2SidRPwmhuYFxEHs0Rp4-j-AfOeqDzHJ-lQjQCKMC2c)
+![](https://lh6.googleusercontent.com/OsiHgw8mPd_xiwFHb-oJFPPJxB5Uf6tJX6p2EFRBmKV8L3ftqf28XTbLNMsol4Vx-Y_RE_G075wpVPT_J52K9ugLrSb3Afm1oqOd5IU7pM0KqD5Q3M_Lpl4CB4yRjYkML4Ndc_DSv1o)
 
 經歷過任務包的夥伴們，其實早已踏上各自的英雄旅程，而大會師是所有人第一次面對面的場合。
 
