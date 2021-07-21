@@ -9,7 +9,12 @@
 * **問題整理框架：**協助團隊消化訪談資料，將問題聚焦，取得團隊共識
 * **發想的架構與指引：**協助團體發揮創意，想像不同的可能性
 
-如果你也想為在乎的議題做些什麼，你可以在下列網站更了解使用這個工具，其中也有可以直接操作的線上課程與工具：[http://actionlab.rethinktaiwan.com/](http://actionlab.rethinktaiwan.com/)  
+如果你也想為在乎的議題做些什麼，你可以在下列網站更了解使用這個工具，其中也有可以直接操作的線上課程與工具：
+
+**任務包實戰版，適合帶著一個模糊問題要行動的你：**[**http://missions.rethinktaiwan.com**](http://missions.rethinktaiwan.com/)
+
+**任務包概覽手冊，適合只是想要看看任務包內容的你：**[**https://lihi1.com/ZHCcE**](https://lihi1.com/ZHCcE)  
+  
 
 
 ### **迴圈工具包**
