@@ -1,5 +1,7 @@
 # 工作文化
 
+![](https://lh4.googleusercontent.com/KFMAaeQMwou1uhSgTzJTv7JVZ9ijsgIpmHRsT2glnkMpA1-ed73eK3gNbViUT3TL84NjV837IrMRoj0XqBzvmf5NA2BrFypxMnMBWYjPQrLe6CCr-WX22JyVJ0t9it2OJTqVnD4-ECA)
+
 **在面對團隊衝突時，**  
 我們相信真正對立的底層價值其實很少，  
 仔細的說明想法與考量，  

@@ -1,5 +1,7 @@
 # 成員組成
 
+![](https://lh5.googleusercontent.com/EgAUE_or8I_N8bJMshzw4DkzOI0ADuec9ePP9vGQCyPPHOWGxJWpTtCkUkT-0ai-LK34Eb-eyu7WeyNWnfQt8GX_SKMFaIvN118B2Nf2Wd0FfzlPcG2n-yAvlmnBPRU_mtJo9b20j0s)
+
 **【第四屆執行團隊】**
 
 網站組｜阮琛婷、余韋呈、胡哲愷  

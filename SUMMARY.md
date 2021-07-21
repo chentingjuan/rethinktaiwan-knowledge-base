@@ -6,11 +6,11 @@
 
 * [迴響核心與相信](intro/chou-ban-tuan-dui-he-xin-yu-yuan-jing.md)
 * [迴響簡介](intro/hui-xiang-jian-jie.md)
+* [精選時刻](intro/jing-xuan-shi-ke.md)
 * [迴響品牌紀元，從 2017 年說起](intro/brand-timeline/README.md)
   * [2018 年，是所有東西都想要更好的一屆](intro/brand-timeline/2018.md)
   * [2019 年，是取捨的一屆](intro/brand-timeline/2019.md)
   * [2020-2021 年，是嘗試與世界連結的一屆](intro/brand-timeline/2020-and-2021.md)
-* [精選時刻](intro/jing-xuan-shi-ke.md)
 * [歷屆青年行動團隊](intro/li-jie-hang-dong-tuan-dui/README.md)
   * [2019 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2019-nian.md)
   * [2018 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2018-nian.md)
@@ -18,7 +18,6 @@
 * [迴響的工作模式](intro/zhi-hang-tuan-dui-de-mu-biao-yu-gong-zuo-wen-hua/README.md)
   * [成員組成](intro/zhi-hang-tuan-dui-de-mu-biao-yu-gong-zuo-wen-hua/cheng-yuan-zu-cheng.md)
   * [工作文化](intro/zhi-hang-tuan-dui-de-mu-biao-yu-gong-zuo-wen-hua/gong-zuo-wen-hua.md)
-* [迴響好夥伴](intro/hui-xiang-hao-huo-ban.md)
 
 ## 📚 知識體系 <a id="knowledge"></a>
 

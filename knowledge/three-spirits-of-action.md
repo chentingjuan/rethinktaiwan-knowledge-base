@@ -2,6 +2,8 @@
 
 剛開始採取行動的人，還不熟悉什麼道理或工具，只能先試著採穩下一步，這是登頂的秘訣，再困難、危險、黑暗時，不用自己嚇自己，只要確保能踩好下一步就好了。熟練的行動者，也會有走到邊界的時候，那裡所有的方法和工具，可能都沒有辦法直接應用，不知所措之際，記得行動路上的三大精神，就還可以前進。
 
+![](https://lh4.googleusercontent.com/5hOuCEBDy8uqiEyc911D6g52HcjaV9ROzPq-TLAGqY1sYCX4TbuKcThiKyIprRfYvtDwmvEjDzhU-r1GwFAfb61ZRlmye8mSU_BuLJBfNQ9y6w2tfMxVMYqnLLuUHA-xo6_N5dGXpvI)
+
 ### 先動，再說
 
 再多查一些資料、再多讀一些文獻好了... 真的採取行動前，我們往往會做很多準備，來讓我們「有資格」為自己在意的事做點什麼。

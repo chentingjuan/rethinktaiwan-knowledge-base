@@ -20,6 +20,8 @@ description: 一些讓你可以更認識計畫的圖文
 
 ## **任務包挑戰：累積 819 人參與線上任務，從提問開始展開行動。**
 
+![](https://lh3.googleusercontent.com/mtSurotKLosaHS13z3j17RGEG6TUsPyPDaY_L1L7tjVGC0Pl63gWTUu09ypHfTbMTak3_zZJtwPJP5nUHf0E_jbAh1BqIL8fXk7Uq4AkJwCkQtcUon0CVek_PwSSJQ0Mut5NI1R85Fo)
+
 迴響的網路提案門檻，非常精要：**「一句不帶任何假設的提問」就是你的提案**，而只要通過這項提案（但其實問對問題，也不簡單喔～），就能展開線上的任務包挑戰。
 
 審核任務包的機制，正是以青年迴響計畫的教練們為首，陪伴大家一起逐步展開各自的行動，從訪談紀錄、整理洞察、驗證釐清，到發想出可以實際行動的方案。
@@ -31,6 +33,8 @@ description: 一些讓你可以更認識計畫的圖文
 \*\*\*\*
 
 ## **大會師：行動者的開學典禮，為同樣原因而聚集。**
+
+![](https://lh3.googleusercontent.com/nark-7oti1wcrVY_Oz2bySN8vSQpd5PVUbuLnfezGF39B16ZQZenKj3gaKdWSr8hUxlSCs25FCPSA9JmxtN3J2xuQs9SYAcB2SidRPwmhuYFxEHs0Rp4-j-AfOeqDzHJ-lQjQCKMC2c)
 
 經歷過任務包的夥伴們，其實早已踏上各自的英雄旅程，而大會師是所有人第一次面對面的場合。
 
@@ -45,6 +49,8 @@ description: 一些讓你可以更認識計畫的圖文
 
 
 ## **Pitch Day：當你踏上未竟之路，「收穫」才是真正的成功。**
+
+![](../.gitbook/assets/8s7a3519.jpg)
 
 迴響計畫相信，當一個人的提案，經過了行動、反思，來回的驗證並大膽再繼續試錯之後，**就要更勇敢地，向世界分享你的看見**，行動團隊將會用 12-15 分鐘的時間進行提案，與評審發表時，**就彷彿是向外再踏一步，讓更多未知的資源、可能性，因你而生**。
 
