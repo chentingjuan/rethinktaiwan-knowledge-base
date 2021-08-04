@@ -4,21 +4,21 @@
 
 ## 👋  認識迴響 <a id="intro"></a>
 
-* [迴響核心與相信](intro/chou-ban-tuan-dui-he-xin-yu-yuan-jing.md)
-* [迴響簡介](intro/hui-xiang-jian-jie.md)
-* [精選時刻](intro/jing-xuan-shi-ke.md)
+* [迴響核心與相信](intro/our-belief.md)
+* [迴響簡介](intro/intro.md)
+* [精選時刻](intro/featured-moments.md)
 * [迴響品牌紀元，從 2017 年說起](intro/brand-timeline/README.md)
   * [2018 年，是所有東西都想要更好的一屆](intro/brand-timeline/2018.md)
   * [2019 年，是取捨的一屆](intro/brand-timeline/2019.md)
   * [2020-2021 年，是嘗試與世界連結的一屆](intro/brand-timeline/2020-and-2021.md)
-* [歷屆青年行動團隊](intro/li-jie-hang-dong-tuan-dui/README.md)
-  * [2019 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2019-nian.md)
-  * [2018 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2018-nian.md)
-  * [2017 年迴響行動團隊](intro/li-jie-hang-dong-tuan-dui/2017-nian.md)
-* [迴響的工作模式](intro/zhi-hang-tuan-dui-de-mu-biao-yu-gong-zuo-wen-hua/README.md)
-  * [發展出的幾種會議模式：](intro/zhi-hang-tuan-dui-de-mu-biao-yu-gong-zuo-wen-hua/fa-zhan-chu-de-ji-zhong-hui-yi-mo-shi.md)
-  * [成員組成](intro/zhi-hang-tuan-dui-de-mu-biao-yu-gong-zuo-wen-hua/cheng-yuan-zu-cheng.md)
-  * [工作文化](intro/zhi-hang-tuan-dui-de-mu-biao-yu-gong-zuo-wen-hua/gong-zuo-wen-hua.md)
+* [歷屆青年行動團隊](intro/previous-proposal-teams/README.md)
+  * [2019 年迴響行動團隊](intro/previous-proposal-teams/2019.md)
+  * [2018 年迴響行動團隊](intro/previous-proposal-teams/2018.md)
+  * [2017 年迴響行動團隊](intro/previous-proposal-teams/2017.md)
+* [迴響的工作模式](intro/our-work-style/README.md)
+  * [發展出的幾種會議模式：](intro/our-work-style/our-meeting-method.md)
+  * [成員組成](intro/our-work-style/cheng-yuan-zu-cheng.md)
+  * [工作文化](intro/our-work-style/gong-zuo-wen-hua.md)
 
 ## 📚 知識體系 <a id="knowledge"></a>
 
